@@ -14,3 +14,6 @@ def contains_duplicates(given_str):
 
 print(contains_duplicates("hello"))
 print(contains_duplicates("ndhsko"))
+
+# Run time complexity: O(n)
+# Space complexity: O(n)
